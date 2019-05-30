@@ -23,7 +23,7 @@ Muestra de trabajos del espacio digital interactivo
 - ELISA ISABEL GARCIA LUQUE 
 - JOSE ANGEL HERNANDEZ NAVARRO
 - LAURA HIDALGO BECERRA
-- LUCIA ELIZABETH JENKINS NEVARES
+- LUCIA ELIZABETH JENKINS NEVARES :+1: :+1: [Lucia Jenkins´s Portfolio](https://luciaajenkins.github.io/proyectofinal.html)
 - CANDELA LERMA PARRA :clapper: :+1: :+1: [Yo y mis amigos](https://candelalermaparra.github.io)
 - ALVARO LIGERO GALVEZ
 - IRENE MARQUEZ CONSTAN 
